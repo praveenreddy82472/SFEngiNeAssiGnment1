@@ -1,8 +1,8 @@
 """
 Program Title : Near Misses
 Name of the file : Assignment 1
-Name of the Programmer: Thumati Praveen Kumar
-Date : 7/15/2023
+Name of the Programmer: [Thumati Praveen Kumar] [Kasoju Mani Rathnam]
+Student Email Address : [praveenkthumati@lewisu.edu] [manirathnamkasoju@lewisu.edu]
 Explanation of the Program : the Program searchs for  near miss with the value of n and K. the n value should be between 2 and 12 , and k value should be 
                                 greater than 10. if theses two conditions are statisfied then it will search for near misses. it works on the formula given 
                                 in the requirement to calculate the near misses
